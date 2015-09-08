@@ -24,3 +24,4 @@ The following features are not supported:
 <ul>
 <item>Storage motion: this requires a redesign of the mirroring code in tapdisk.</item>
 </ul>
+</div>
